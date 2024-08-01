@@ -1,2 +1,7 @@
 MNIST
 DDPM
+CLIP
+faces
+celeba-dataset.zip
+clip_data.csv
+clip_O.csv
