@@ -55,5 +55,5 @@ To run the project:
    ```bash
    git clone https://github.com/your-repo/DDPM-assignment.git
    cd DDPM-assignment
-2. Open main2.ipynb in Google Colab or Jupyter Notebook.
+2. Open main.ipynb in Google Colab or Jupyter Notebook.
 3. Run all cells to train the model and generate results.
